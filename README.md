@@ -12,7 +12,7 @@
 <b>Figure 1</b>
 
 ## [Project 2: Student Results Monitoring System](https://github.com/kelvinsima2/Student-Results)
-- This project involves the use of students' test results obtained from the 20COP504 module at Loughborough University. Data colleted from students that rated the difficulty of the module was also used.
-- The test results data was cleaned, formatted and stored in a database using Python.
-- Python modules that obtained an individual student's test results, analyzed student performance as well as identifying underperforming and hardworking students were developed.
-- A python main program which provided the required menu options to the module leader for the program functionalities was created using the tkinter library. 
+- This project involves the use of students' [test results](https://github.com/kelvinsima2/Student-Results/blob/main/TestResultCSV%20files.zip) obtained from the 20COP504 module at Loughborough University. Data collected from students that rated the [difficulty of the module](https://github.com/kelvinsima2/Student-Results/blob/main/StudentRate.csv) was also used.
+- The test results data was cleaned, formatted and stored in a database using a [Jupyter Notebook in Python](https://github.com/kelvinsima2/Student-Results/blob/main/CW1.ipynb).
+- Python modules that obtained an individual student's [test results](https://github.com/kelvinsima2/Student-Results/blob/main/testResults.py), analyzed [student performance](https://github.com/kelvinsima2/Student-Results/blob/main/studentPerformance.py) as well as identifying [underperforming](https://github.com/kelvinsima2/Student-Results/blob/main/underperformingStudent.py) and [hardworking](https://github.com/kelvinsima2/Student-Results/blob/main/hardworkingStudents.py) students were developed.
+- A python [main program](https://github.com/kelvinsima2/Student-Results/blob/main/menu.py) which provided the required menu options to the module leader for the program functionalities was created using the tkinter library. 
