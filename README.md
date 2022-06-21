@@ -16,3 +16,6 @@
 - The test results data was cleaned, formatted and stored in a database using a [Jupyter Notebook in Python](https://github.com/kelvinsima2/Student-Results/blob/main/CW1.ipynb).
 - Python modules that obtained an individual student's [test results](https://github.com/kelvinsima2/Student-Results/blob/main/testResults.py), analyzed [student performance](https://github.com/kelvinsima2/Student-Results/blob/main/studentPerformance.py) as well as identifying [underperforming](https://github.com/kelvinsima2/Student-Results/blob/main/underperformingStudent.py) and [hardworking](https://github.com/kelvinsima2/Student-Results/blob/main/hardworkingStudents.py) students were developed.
 - A python [main program](https://github.com/kelvinsima2/Student-Results/blob/main/menu.py) which provided the required menu options to the module leader for the program functionalities was created using the tkinter library. 
+
+[Project 3: Baseball Games Data Analysis](https://github.com/kelvinsima2/Baseball_teams_analysis_R_project/blob/main/baseball%20project.Rmd)
+- 
