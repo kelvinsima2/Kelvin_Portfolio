@@ -1,6 +1,4 @@
-# Kelvin Simatwo's Portfolio 
-
-## [Project 1: Predicting Drivers' Coupon Acceptance](https://github.com/kelvinsima2/coupon_predictor/blob/main/Coursework1.ipynb)
+# [Project 1: Predicting Drivers' Coupon Acceptance](https://github.com/kelvinsima2/coupon_predictor/blob/main/Coursework1.ipynb)
 
 - This project involves the use of the in-vehicle coupon recommendation dataset available on the UCI machine learning repository to predict whether a driver would accept a coupon based on various conditions.
 - SVM, KNN, Decision Tree and AdaBoost classification models were evaluated to determine which model was most accurate in the predictions.
@@ -11,13 +9,13 @@
 ![Figure 1](https://github.com/kelvinsima2/coupon_predictor/blob/main/KNN_Accuracy.png?raw=true)
 <b>Figure 1</b>
 
-## [Project 2: Student Results Monitoring System](https://github.com/kelvinsima2/Student-Results)
+# [Project 2: Student Results Monitoring System](https://github.com/kelvinsima2/Student-Results)
 - This project involves the use of students' [test results](https://github.com/kelvinsima2/Student-Results/blob/main/TestResultCSV%20files.zip) obtained from the 20COP504 module at Loughborough University. Data collected from students that rated the [difficulty of the module](https://github.com/kelvinsima2/Student-Results/blob/main/StudentRate.csv) was also used.
 - The test results data was cleaned, formatted and stored in a database using a [Jupyter Notebook in Python](https://github.com/kelvinsima2/Student-Results/blob/main/CW1.ipynb).
 - Python modules that obtained an individual student's [test results](https://github.com/kelvinsima2/Student-Results/blob/main/testResults.py), analyzed [student performance](https://github.com/kelvinsima2/Student-Results/blob/main/studentPerformance.py) as well as identifying [underperforming](https://github.com/kelvinsima2/Student-Results/blob/main/underperformingStudent.py) and [hardworking](https://github.com/kelvinsima2/Student-Results/blob/main/hardworkingStudents.py) students were developed.
 - A python [main program](https://github.com/kelvinsima2/Student-Results/blob/main/menu.py) which provided the required menu options to the module leader for the program functionalities was created using the tkinter library. 
 
-## [Project 3: Baseball Games Data Analysis](https://github.com/kelvinsima2/Baseball_teams_analysis_R_project/blob/main/baseball%20project.Rmd)
+# [Project 3: Baseball Games Data Analysis](https://github.com/kelvinsima2/Baseball_teams_analysis_R_project/blob/main/baseball%20project.Rmd)
 - This project involved using several datasets about American baseball from the R package 'Lahman'.
 - A simple linear regression model was developed in order to predict the logarithm (base 10) of mean salaries of baseball teams. This is showm in Figure 2.
 - A multiple regression model was developed to predict the number of runs made by a player based on features such as player age, height, team, year, position and number of hits.
