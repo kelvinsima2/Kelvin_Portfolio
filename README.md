@@ -9,8 +9,10 @@
 - The full written report for the project can be found [here](https://github.com/kelvinsima2/coupon_predictor/blob/main/report_F134712.pdf).
 
 ![Figure 1](https://github.com/kelvinsima2/coupon_predictor/blob/main/KNN_Accuracy.png?raw=true)
-:--:
 <b>Figure 1</b>
 
-
-
+## [Project 2: Student Results Monitoring System](https://github.com/kelvinsima2/Student-Results)
+- This project involves the use of students' test results obtained from the 20COP504 module at Loughborough University. Data colleted from students that rated the difficulty of the module was also used.
+- The test results data was cleaned, formatted and stored in a database using Python.
+- Python modules that obtained an individual student's test results, analyzed student performance as well as identifying underperforming and hardworking students were developed.
+- A python main program which provided the required menu options to the module leader for the program functionalities was created using the tkinter library. 
