@@ -18,4 +18,11 @@
 - A python [main program](https://github.com/kelvinsima2/Student-Results/blob/main/menu.py) which provided the required menu options to the module leader for the program functionalities was created using the tkinter library. 
 
 [Project 3: Baseball Games Data Analysis](https://github.com/kelvinsima2/Baseball_teams_analysis_R_project/blob/main/baseball%20project.Rmd)
-- 
+- This project involved using several datasets about American baseball from the R package 'Lahman'.
+- A simple linear regression model was developed in order to predict the logarithm (base 10) of mean salaries of baseball teams. This is showm in Figure 2.
+- A multiple regression model was developed to predict the number of runs made by a player based on features such as player age, height, team, year, position and number of hits.
+- Finally a lasso regression model for logistic regression was explored in order to predict division winners. The sum of specificity and sensitivity was between 1.79 and 1.87 for all 3 divisions, indicating that the prediction was almost equally good across all divisions.
+- The pdf of the knitted R notebook can be found [here](https://github.com/kelvinsima2/Baseball_teams_analysis_R_project/blob/main/Baseball%20Project.pdf)
+
+![Figure 2](https://github.com/kelvinsima2/Baseball_teams_analysis_R_project/blob/main/Mean_Team_Salaries_Prediction_Band.png?raw=true)
+<b>Figure 2</b>
