@@ -9,6 +9,7 @@
 - The full written report for the project can be found [here](https://github.com/kelvinsima2/coupon_predictor/blob/main/report_F134712.pdf).
 
 ![Figure 1](https://github.com/kelvinsima2/coupon_predictor/blob/main/KNN_Accuracy.png?raw=true)
+:--:
 <b>Figure 1</b>
 
 
