@@ -22,7 +22,7 @@
 - Finally a lasso regression model for logistic regression was explored in order to predict division winners. The sum of specificity and sensitivity was between 1.79 and 1.87 for all 3 divisions, indicating that the prediction was almost equally good across all divisions.
 - The pdf of the knitted R notebook can be found [here](https://github.com/kelvinsima2/Baseball_teams_analysis_R_project/blob/main/Baseball%20Project.pdf)
 
-# [Project 4: Hate Speech Predictor](https://github.com/kelvinsima2/Hate-Speech-Detector/blob/main/notebooks/Hate_Speech_Detector.ipynb)
+# [Project 4: Hate Speech Detector](https://github.com/kelvinsima2/Hate-Speech-Detector/blob/main/notebooks/Hate_Speech_Detector.ipynb)
 - The main aim of this project is detecting subtle hate-speech in a sentence. The data used was obtained from [Microsoft's TOXIGEN dataset](https://github.com/microsoft/TOXIGEN).
 - The model aims to detect subtle hate against ethnicity, sexual orientation, gender and disability.
 - A convolutional neural network (CNN) model was used, and accuracies of 100% were achieved using the test data.
